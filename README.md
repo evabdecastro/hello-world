@@ -1,2 +1,3 @@
 # hello-world
 Will use as test repo for a test recipe website
+I'm no developer or coder, just trying to learn git, html, css, etc...
